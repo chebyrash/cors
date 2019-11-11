@@ -1,2 +1,1 @@
-# cors
-CORS proxy using Cloudflare Workers
+# CORS proxy using Cloudflare Workers
