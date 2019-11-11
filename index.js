@@ -8,7 +8,7 @@ async function handleRequest(request) {
 
     if (url.pathname === "/")
       return new Response(`
-        Usage:
+        Usage:\n
           ${url.origin}/<url>
       `);
 
