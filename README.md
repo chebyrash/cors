@@ -1,6 +1,5 @@
-## CORS proxy using Cloudflare Workers
-
 ### [https://cors.x7.workers.dev](https://cors.x7.workers.dev)
+
 
 ```js
 addEventListener("fetch", event => {
