@@ -1,6 +1,3 @@
-### [https://cors.x7.workers.dev](https://cors.x7.workers.dev)
-
-
 ```js
 addEventListener("fetch", event => {
   event.respondWith(handleRequest(event.request))
